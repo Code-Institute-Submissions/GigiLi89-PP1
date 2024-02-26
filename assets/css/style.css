@@ -33,6 +33,6 @@ body {
     color: #ad795b;
 }
 
-@media only screen and (min-width: 768px) {
-    
+@media only screen and (max-width: 768px) {
+    width: 100%
 }
