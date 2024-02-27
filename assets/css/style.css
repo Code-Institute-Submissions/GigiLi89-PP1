@@ -17,20 +17,21 @@ body {
 
 /* Logo (img) */
 #logo {
-
-}
+    max-width: 100px;
+    }
 
 /* Header */
 header {
-    background-color: #ffffff;
-    padding: 0 1rem;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 5px 5px #ad795b;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
+    background-color: #ffffff;
+    position: fixed;
+    padding-right: 20px;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 4px 4px #ad795b;
+
 }
 
 header a {
@@ -59,16 +60,15 @@ header a {
 nav {
     position: absolute;
     background-color: #ffffff;
-    width: 100%;
-    left: 0;
+    right: 0;
     padding: 0 1rem;
-    box-shadow: 0 2px 2px #ad795b;
+    box-shadow: 2 2px 2px #ad795b;
     display: none;
     top: 100%;
 }
 
 /* Toggle */
-#toggle:checked~nav {
+#nav-toggle:checked~nav {
     display: block;
 }
 
@@ -76,17 +76,15 @@ nav {
     display: none;
 }
 
-.toggle2 {
+.nav-toggle-label {
     font-size: 2rem;
 }
 
 /* Main */
 main {
-    /* Enlarge main element to push footer down*/
+    /* Footer down */
     flex: 1 0 auto;
-    /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 47px;
-    /* Enable flex properties for child elements */
+    margin-top: 150px;
     display: flex;
     flex-direction: column;
 }
@@ -94,13 +92,29 @@ main {
 
 /* Hero / Heading */
 #hero {
-    height: 500px;
+    height: 400px;
     width: 100%;
-    background: url("assets/images/gy_hero_1.png") no-repeat center center/cover;
+    background: url("../images/gy_hero_1.png") no-repeat center center/cover;
     position: relative;
+    box-shadow: 0 6px 6px #ffffff;
 }
 
 /* Footer */
+
+#socialmedia {
+    text-align: center;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#socialmedia i {
+    font-size: 200%;
+    padding: 5%;
+    color: #ad795b;
+}
+
 
 @media screen and (min-width: 576px) {}
 @media screen and (min-width: 768px) {} 
