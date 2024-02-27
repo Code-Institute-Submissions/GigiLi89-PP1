@@ -27,10 +27,9 @@ header {
     align-items: center;
     background-color: #ffffff;
     position: fixed;
-    padding-right: 20px;
-    z-index: 99;
+    padding-right: 15px;
+    z-index: 100;
     width: 100%;
-    box-shadow: 0 4px 4px #ad795b;
 
 }
 
@@ -118,6 +117,17 @@ text-align: center;
     max-height: 300px;
 }
 
+#gallery-head {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+#gallery {
+margin-top: 10px;
+}
+
 /* Footer */
 
 #socialmedia {
@@ -139,7 +149,42 @@ text-align: center;
 
 }
 @media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
 
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+       /* Main content */
+       main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 79px;
+    }
+
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        right: 50px;
+    }
 } 
 @media screen and (min-width: 992px) {
 
