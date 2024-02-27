@@ -96,7 +96,18 @@ main {
     width: 100%;
     background: url("../images/gy_hero_1.png") no-repeat center center/cover;
     position: relative;
-    box-shadow: 0 6px 6px #ffffff;
+}
+
+#about h2 {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+#about > p {
+padding: 10px;
+text-align: center;
 }
 
 /* Footer */
