@@ -1,3 +1,4 @@
+![Logo] (assets/images/GY Logo.png)
 ## Welcome to my PP1 - Gigis Yarn!
 
 ## About Gigis Yarn
