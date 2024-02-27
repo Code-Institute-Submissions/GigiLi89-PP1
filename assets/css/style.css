@@ -15,6 +15,12 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+header {
+position: absolute;
+z-index: 99;
+width: 100%;
+}
+
 ul {
     list-style: none;
 }
@@ -30,9 +36,17 @@ a {
     background: url("../images/gy_hero_1.png") no-repeat center center/cover;
 }
 
-#photos {
+img {
+width: 350px;
+height: 350px;
+}
+
+.container {
     display: flex;
-    
+    max-width: 1200px;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /* Footer */
@@ -50,13 +64,7 @@ a {
     color: #ad795b;
 }
 
-#photos {
-width: 100%;
-height: auto;
-display: flex;
-flex-wrap: wrap;
-align-content: flex-start;
-}
+
 @media screen and (min-width: 576px) {}
 @media screen and (max-width: 768px) {
     body {
