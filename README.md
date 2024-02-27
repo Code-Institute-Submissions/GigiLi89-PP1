@@ -1,5 +1,4 @@
-![Logo] (assets/images/GY Logo.png)
-## Welcome to my PP1 - Gigis Yarn!
+![Logo] (assets/images/GYLogo.png)
 
 ## About Gigis Yarn
 Gigis Yarn is designed to act like a gallery for my crochet artwork. On the site you will find handmade baby toys and accessories, these items can also be customized and purchased. 
