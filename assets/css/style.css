@@ -6,12 +6,100 @@
     padding: 0;
     margin: 0;
     text-decoration: none;
-    list-style: none;
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     font-family: 'Inter', sans-serif;
 }
+
+/* Logo (img) */
+#logo {
+
+}
+
+/* Header */
+header {
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 5px 5px #ad795b;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    font-size: 140%;
+    letter-spacing: 1px;
+    list-style-type: none;
+    text-transform: uppercase;
+    float: right;
+    margin-top: 10px;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #ad795b;
+}
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #ad795b;
+    display: none;
+    top: 100%;
+}
+
+/* Toggle */
+#toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.toggle2 {
+    font-size: 2rem;
+}
+
+/* Main */
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* Hero / Heading */
+#hero {
+    height: 500px;
+    width: 100%;
+    background: url("assets/images/gy_hero_1.png") no-repeat center center/cover;
+    position: relative;
+}
+
 /* Footer */
 
 @media screen and (min-width: 576px) {}
