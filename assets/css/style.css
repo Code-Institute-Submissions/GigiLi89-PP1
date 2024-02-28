@@ -137,6 +137,10 @@ font-weight: 900;
 border-radius: 15px;
 }
 
+.button a:visited {
+    color: black;
+}
+
 #gallery-head {
     text-align: center;
     color: black;
@@ -164,6 +168,12 @@ margin-top: 10px;
     color: #ad795b;
 }
 
+#copyright {
+    text-align: center;
+    font-size: 10px;
+    font-style: oblique;
+    color: #ad795b;
+}
 
 @media screen and (min-width: 576px) {
 
@@ -193,7 +203,6 @@ margin-top: 10px;
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
-
     }
        /* Main content */
        main {
