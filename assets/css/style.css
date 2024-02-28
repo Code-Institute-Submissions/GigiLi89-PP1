@@ -56,7 +56,7 @@ header a {
     border-bottom: 1px solid #ad795b;
 }
 
-/* Navbar styles with dropdown toggle */
+/* Navbar styles with dropdown menu */
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -150,6 +150,8 @@ border-radius: 15px;
 
 #gallery {
 margin-top: 10px;
+width: 100%;
+line-height: 0;
 }
 
 /* Footer */
@@ -176,7 +178,10 @@ margin-top: 10px;
 }
 
 @media screen and (min-width: 576px) {
-
+    #gallery {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 @media screen and (min-width: 768px) {
     nav {
@@ -204,6 +209,16 @@ margin-top: 10px;
         line-height: 75px;
         margin: 0 0.5rem;
     }
+
+     /* Gallery */
+    #gallery img {
+    column-count: 3;
+    }
+
+    #gallery {
+        line-height; 0;
+    }
+
        /* Main content */
        main {
         /* Push main content down to accommodate larger header */
@@ -217,7 +232,14 @@ margin-top: 10px;
     }
 } 
 @media screen and (min-width: 992px) {
+    #menu a:hover{
+        border-bottom: 1px solid #3a3a3a;
+    }
 
+    /* Gallery */
+    #gallery {
+        column-count: 4;
+    }
 }
 @media screen and (min-width: 1200px) {
 
