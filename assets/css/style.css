@@ -92,7 +92,7 @@ main {
 
 /* Hero / Heading */
 #hero {
-    height: 350px;
+    height: 400px;
     width: 100%;
     background: url("../images/gy_hero_1.png") no-repeat center center/cover;
     position: relative;
@@ -137,7 +137,11 @@ font-weight: 900;
 border-radius: 15px;
 }
 
-.button a:visited {
+.button a:hover a:visited {
+    color: black;
+}
+
+.button:active {
     color: black;
 }
 
@@ -148,9 +152,14 @@ border-radius: 15px;
     text-transform: uppercase;
 }
 
-#gallery {
-margin-top: 10px;
-width: 100%;
+
+#image img {
+    width: 100%;
+    line-height: 1em;
+    padding: 5px;
+}
+
+#image {
 line-height: 0;
 }
 
@@ -178,7 +187,7 @@ line-height: 0;
 }
 
 @media screen and (min-width: 576px) {
-    #gallery {
+    #image {
         column-count: 2;
         column-gap: 0;
     }
@@ -211,12 +220,12 @@ line-height: 0;
     }
 
      /* Gallery */
-    #gallery img {
+    #image img {
     column-count: 3;
     }
 
-    #gallery {
-        line-height; 0;
+    #image {
+        line-height: 0;
     }
 
        /* Main content */
@@ -237,10 +246,13 @@ line-height: 0;
     }
 
     /* Gallery */
-    #gallery {
+    #image {
         column-count: 4;
     }
 }
 @media screen and (min-width: 1200px) {
-
+    /* Gallery */
+    #image {
+        column-count: 5;
+    }
 }
