@@ -138,8 +138,12 @@ border: none;
 letter-spacing: 2px;
 }
 
-a, a:hover, a:focus, a:active {
+a {
     color: black;
+}
+
+a:hover, a:focus, a:active {
+    color: #2b1a05;
 }
 
 #gallery-head h2 {
