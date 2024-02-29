@@ -278,6 +278,26 @@ textarea {
     #image {        
         column-count: 3;
     }
+
+    #contact p {
+        font-size: 20px;
+    }
+    
+    form {
+        margin: 25px;
+    }
+
+    form input {
+        padding: 15px 20px 20px 70px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    
+    textarea {
+        padding: 15px 20px 20px 100px;
+    }
+
+
 } 
 @media screen and (min-width: 992px) {
     #menu a:hover{
