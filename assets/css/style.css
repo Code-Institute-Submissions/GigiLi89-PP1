@@ -123,7 +123,6 @@ text-align: center;
 .button {
 color: black;
 background-color: #ad795b;
-border: none;
 padding: 15px 20px;
 text-align: center;
 font-size: 20px;
@@ -135,6 +134,7 @@ width: 50%;
 text-transform: uppercase;
 font-weight: 900;
 border-radius: 15px;
+border: none;
 letter-spacing: 2px;
 }
 
@@ -157,9 +157,6 @@ letter-spacing: 2px;
     padding: 5px;
 }
 
-#image {
-line-height: 0;
-}
 
 #contact h2 {
     text-align: center;
@@ -230,10 +227,6 @@ line-height: 0;
         margin: 0 0.5rem;
     }
 
-    #image {
-        line-height: 0;
-    }
-
        /* Main content */
        main {
         /* Push main content down to accommodate larger header */
@@ -246,10 +239,10 @@ line-height: 0;
         right: 50px;
     }
 
-         /* Gallery */
-         #image {
-            column-count: 3;
-            }
+    /* Gallery */
+    #image {        
+        column-count: 3;
+    }
 } 
 @media screen and (min-width: 992px) {
     #menu a:hover{
