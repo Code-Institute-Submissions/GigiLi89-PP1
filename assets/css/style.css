@@ -171,6 +171,11 @@ letter-spacing: 2px;
     text-align: center;
     }
 
+#thanks h3 {
+    text-align: center;
+    padding: 10px;
+}    
+
 /* Footer */
 
 #socialmedia {
