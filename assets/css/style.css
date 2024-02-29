@@ -247,7 +247,7 @@ line-height: 0;
     }
 
          /* Gallery */
-         #image img {
+         #image {
             column-count: 3;
             }
 } 
