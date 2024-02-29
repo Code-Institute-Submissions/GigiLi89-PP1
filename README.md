@@ -27,3 +27,18 @@ Contact: A form to contact me.
 ## Media
 - The logo was made by me in Canva. The hero-image was also made by me in Canva with photo included in for Canva Pro. 
 - All other photos were photographed and edited by me and was taken from my Instagram account @gigisyarn. 
+
+## Sources
+- Love Running Walkthrough Project from Code Institute
+
+- Center image (Page 1):
+https://www.w3schools.com/howto/howto_css_image_center.asp
+
+- Color picker (For the background): 
+https://htmlcolorcodes.com/
+
+- Button to Gallery: 
+https://www.w3schools.com/tags/tag_button.asp
+
+- Style submit button:
+https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
