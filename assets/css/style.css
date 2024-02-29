@@ -138,7 +138,7 @@ border: none;
 letter-spacing: 2px;
 }
 
-.button a:hover {
+a, a:hover, a:focus, a:active {
     color: black;
 }
 
@@ -173,8 +173,17 @@ letter-spacing: 2px;
 
 #thanks h3 {
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }    
+
+
+form {
+    margin: 20px;
+}
+
+textarea {
+    resize: none;
+}
 
 /* Footer */
 
