@@ -107,16 +107,20 @@ main {
 }
 
 #about > p {
-padding: 10px;
+padding: 30px;
+margin: 20px;
 text-align: center;
+border-radius: 25px;
+background: #ffffff;
+
 }
 
 #about > img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
-    border-radius: 50%;
+    width: 100%;
+    border-radius: 25%;
     max-width: 300px;
     max-height: 300px;
 }
