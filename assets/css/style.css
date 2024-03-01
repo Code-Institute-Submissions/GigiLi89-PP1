@@ -288,6 +288,7 @@ textarea {
     }
 
     #contact p {
+        padding: 15px;
         font-size: 20px;
     }
     
@@ -296,13 +297,13 @@ textarea {
     }
 
     form input {
-        padding: 15px 20px 20px 70px;
+        padding: 15px 20px 20px 100px;
         margin-bottom: 10px;
         margin-top: 10px;
     }
     
     textarea {
-        padding: 15px 20px 20px 100px;
+        padding: 15px 20px 20px 200px;
     }
 
 
@@ -316,10 +317,53 @@ textarea {
     #image {
         column-count: 4;
     }
+    #contact p {
+        padding: 20px;
+        font-size: 20px;
+    }
+    
+    form {
+        margin: 30px;
+    }
+
+    form input {
+        padding: 15px 20px 20px 200px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    
+    textarea {
+        padding: 15px 30px 30px 500px;
+    }
+
 }
 @media screen and (min-width: 1200px) {
     /* Gallery */
     #image {
         column-count: 5;
     }
+
+    #contact p {
+        padding: 25px;
+        font-size: 22px;
+    }
+    
+    form {
+        margin: 35px;
+    }
+
+    form input {
+        padding: 15px 20px 20px 250px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    
+    textarea {
+        padding: 15px 40px 40px 600px;
+    }
+
+    .button {
+        width: 20%;
+        font-size: 22px;
+        }
 }
