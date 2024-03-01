@@ -10,7 +10,7 @@ Photos: Shows photos of my previous works.
 Contact: A form to contact me. 
 
 ## Goals
-
+The goals with this website is to use it as a digital gallery for my artwork as well as a showcase room for anyone interested in buying anything. 
 
 
 ## Languages and resources:
@@ -46,7 +46,7 @@ https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-t
 ## Wireframe
 The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
 
-W3C Validator
+## W3C Validator
 Tested 2023-03-01, result: 
 Index page
 - Could not have an <a> as a decendant to <button> 
