@@ -32,7 +32,9 @@ The site should be organised, easy to navigate and to update information.
 ### Colour scheme
 - #AD795B
 - #FAFAF8
+
 ![Color palette][assets/images/color_palette.png]
+
 Color palette created using Canva.
 The colors are very neutral with a lot of brown and beige colors, this is to match all the colors in the photos and let the photos "decorate" the site. 
 
