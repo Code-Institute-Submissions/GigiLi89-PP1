@@ -42,3 +42,6 @@ https://www.w3schools.com/tags/tag_button.asp
 
 - Style submit button:
 https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
+
+## Wireframe
+The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
