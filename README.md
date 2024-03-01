@@ -1,4 +1,4 @@
-![Logo] (assets/images/GYLogo.png)
+![Logo](assets/images/GYLogo.png)
 
 ## About Gigis Yarn
 Gigis Yarn is designed to act like a gallery for my crochet artwork. On the site you will find handmade baby toys and accessories, these items can also be customized and purchased. 
@@ -9,8 +9,37 @@ Homepage: Contains a description of Gigis Yarn.
 Photos: Shows photos of my previous works. 
 Contact: A form to contact me. 
 
-## Goals
-The goals with this website is to use it as a digital gallery for my artwork as well as a showcase room for anyone interested in buying anything. 
+## User Stories
+
+### First time visitors:
+An inspirational page for someone interested in crochet.
+Puschase finished products or the pattern. 
+Contact me for any requests or questions.
+
+### Returning visitors:
+Find inspiration from updated information/images
+Purchase finished products and patterns
+
+### Others: 
+Potentional customer wanting to know prices and what else is offered
+
+
+## Site Administrator
+The site should be organised, easy to navigate and to update information.
+
+## Design
+
+### Colour scheme
+- #AD795B
+- #FAFAF8
+![Color palette][assets/images/color_palette.png]
+Color palette created using Canva.
+The colors are very neutral with a lot of brown and beige colors, this is to match all the colors in the photos and let the photos "decorate" the site. 
+
+### Font family
+For the logo (made in Canva) I used ITC Avant Garde Gothic and Gothham.
+For the rest of the site I used the linked Google Fonts with Poppins and the the fallback font is sans-serif. 
+Bold was used mainly on the button texts with a weight of 900. 
 
 
 ## Languages and resources:
@@ -65,3 +94,6 @@ CSS Stylesheet
 
 All issues has been taken care of and there are no more errors or warnings. 
 
+
+
+[assets/images/color_palette.png]: assets/images/color_palette.png
