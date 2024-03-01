@@ -45,3 +45,23 @@ https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-t
 
 ## Wireframe
 The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
+
+W3C Validator
+Tested 2023-03-01, result: 
+Index page
+- Could not have an <a> as a decendant to <button> 
+- Changed my <section> to <div> since I'm not using a header and only h2.
+Gallery page
+- Same issue with the button since I used the same code. 
+- Changed my <section> to <div> since I'm not using a header and only h2.
+- I had a <div> without a closing tag
+Contact page
+- Changed my <section> to <div> since I'm not using a header and only h2. 
+Thank you page
+- <button> issue and <section> issue, the same as the other pages. 
+
+CSS Stylesheet
+- Forgot to put px after a unit
+
+All issues has been taken care of and there are no more errors or warnings. 
+

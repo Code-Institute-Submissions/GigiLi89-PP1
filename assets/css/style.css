@@ -62,7 +62,7 @@ nav {
     background-color: #ffffff;
     right: 0;
     padding: 0 1rem;
-    box-shadow: 2 2px 2px #ad795b;
+    box-shadow: 2px 2px 2px #ad795b;
     display: none;
     top: 100%;
 }
@@ -125,30 +125,30 @@ background: #ffffff;
     max-height: 300px;
 }
 .button {
-color: black;
-background-color: #ad795b;
-padding: 15px 20px;
-text-align: center;
-font-size: 20px;
-margin: 4px 2px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%;
-text-transform: uppercase;
-font-weight: 900;
-border-radius: 15px;
-border: none;
-letter-spacing: 2px;
-}
-
-a {
     color: black;
-}
-
-a:hover, a:focus, a:active {
-    color: #2b1a05;
-}
+    background-color: #ad795b;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-transform: uppercase;
+    font-weight: 900;
+    border-radius: 15px;
+    border: none;
+    letter-spacing: 2px;
+    }
+    
+    a {
+        color: black;
+    }
+    
+    a:hover, a:focus, a:active {
+        color: #2b1a05;
+    }
 
 #gallery-head h2 {
     text-align: center;
@@ -362,7 +362,7 @@ textarea {
         padding: 15px 40px 40px 600px;
     }
 
-    .button {
+    #button {
         width: 20%;
         font-size: 22px;
         }
