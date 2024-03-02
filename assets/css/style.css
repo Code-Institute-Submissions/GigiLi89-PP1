@@ -83,7 +83,7 @@ nav {
 
 /* Main */
 main {
-    /* Footer down */
+    /* Push footer down */
     flex: 1 0 auto;
     margin-top: 150px;
     display: flex;
@@ -93,7 +93,7 @@ main {
 
 /* Hero / Heading */
 #hero {
-    height: 550px;
+    height: 500px;
     width: 100%;
     background: url("../images/gy_hero_1.png") no-repeat center center/cover;
     position: relative;
@@ -186,24 +186,29 @@ padding: 20px;
     text-align: center;
     }
 
-    form {
-        margin: 20px;
+form {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 20px;
     }
-    
-    form input {
-        padding: 10px;
-        margin-bottom: 10px;
-        margin-top: 10px;
-    
+
+    input[type=text] {
+        width: 60%;
+        background-color: #ffffff;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border-radius: 4px;
+        cursor: pointer;
     }
-    
+
     textarea {
-        width: 300px;
-        height: 150px;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        width: 100%
     }
-    
+
     .submit {
         font-size: 20px;
         background-color: #ad795b;
@@ -295,21 +300,10 @@ padding: 20px;
         font-size: 20px;
     }
     
-    form {
-        margin: 25px;
-    }
 
-    form input {
-        padding: 15px 20px 20px 100px;
-        margin-bottom: 10px;
-        margin-top: 10px;
+    #socialmedia i {
+        font-size: 225%;
     }
-    
-    textarea {
-        width: 600px;
-        height: 150px;
-    }
-
 
 } 
 @media screen and (min-width: 992px) {
@@ -339,22 +333,10 @@ padding: 20px;
         padding: 20px;
         font-size: 20px;
     }
-    
-    form {
-        margin: 30px;
-    }
 
-    form input {
-        padding: 15px 20px 20px 200px;
-        margin-bottom: 10px;
-        margin-top: 10px;
+    #socialmedia i {
+        font-size: 250%;
     }
-    
-    textarea {
-        width: 800px;
-        height: 150px;
-    }
-
 }
 @media screen and (min-width: 1200px) {
     /* Gallery */
@@ -376,23 +358,12 @@ padding: 20px;
         font-size: 22px;
     }
     
-    form {
-        margin: 35px;
-    }
-
-    form input {
-        padding: 15px 20px 20px 250px;
-        margin-bottom: 10px;
-        margin-top: 10px;
-    }
-    
-    textarea {
-        width: 1000px;
-        height: 150px;
-    }
-
     .button {
         width: 20%;
         font-size: 22px;
+        }
+
+        #socialmedia i {
+            font-size: 300%;
         }
 }
