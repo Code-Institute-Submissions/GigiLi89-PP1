@@ -1,13 +1,14 @@
-![Logo](assets/images/gigisyarn_logo.png)
+![Logo](assets/images/gylogo.webp.webp)
 
-## About Gigis Yarn
-Gigis Yarn is designed to act like a gallery for my crochet artwork. On the site you will find handmade baby toys and accessories, these items can also be customized and purchased. 
+# Gigis Yarn
+Gigis Yarn is designed to be a digital gallery for handmade crochet artwork. On the site users will find handmade baby toys and accessories. The site is for inspirational purposes and user can even buy items or patterns. 
 
+## Features
 The site features a clear and simpel design that includes a navbar at the top next to the logo. In the navbar there is a menu (burger-menu for mobile-devices and buttons for other larger devices) with three buttons – Home, Photos and Contact. There is also a footer containing working icons of Facebook, Instagram and Contact.  
 
-Homepage: Contains a description of Gigis Yarn. 
-Photos: Shows photos of my previous works. 
-Contact: A form to contact me. 
+- Homepage: Contains a description of Gigis Yarn. 
+- Gallery: Shows photos of my previous works. 
+- Contact: A form for contact, when submitted there will be a thank you page and a button to go back to homepage. 
 
 ## User Stories
 
@@ -79,23 +80,24 @@ The outcome from the Wireframes I made at the beginning has changed a bit from h
 
 ## W3C Validator
 Tested 2023-03-01, result: 
-Index page
-- Could not have an <a> as a decendant to <button> 
+### Index page
+- Could not have an <a> as a decendant to <button>. This was solved by putting only an a href-tag ad styling it. 
 - Changed my <section> to <div> since I'm not using a header and only h2.
-Gallery page
+### Gallery page
 - Same issue with the button since I used the same code. 
 - Changed my <section> to <div> since I'm not using a header and only h2.
 - I had a <div> without a closing tag
-Contact page
+### Contact page
 - Changed my <section> to <div> since I'm not using a header and only h2. 
-Thank you page
+### Thanks page
 - <button> issue and <section> issue, the same as the other pages. 
 
-CSS Stylesheet
+### CSS Stylesheet
 - Forgot to put px after a unit
 
 All issues has been taken care of and there are no more errors or warnings. 
 
-
+2023-03-02: Tested the site again after testing it on Lighthouse, no errors were found. 
 
 [assets/images/color_palette.png]: assets/images/color_palette.png
+

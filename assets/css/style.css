@@ -213,10 +213,6 @@ form {
         cursor: pointer;
     }
 
-    textarea {
-        width: 100%
-    }
-
     .submit {
         font-size: 20px;
         background-color: #714C42;
