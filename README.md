@@ -103,16 +103,16 @@ https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
 ## W3C Validator
 Tested 2023-03-01, result: 
 ### Index page
-- Could not have an <a> as a decendant to <button>. This was solved by putting only an a href-tag ad styling it. 
-- Changed my <section> to <div> since I'm not using a header and only h2.
+- Could not have an a tag as a decendant to button tag. This was solved by putting only an a href-tag ad styling it. 
+- Changed my section tag to div tag since I'm not using a header and only h2.
 ### Gallery page
 - Same issue with the button since I used the same code. 
-- Changed my <section> to <div> since I'm not using a header and only h2.
-- I had a <div> without a closing tag
+- Changed my section tag to div tag since I'm not using a header and only h2.
+- I had a div tag without a closing tag
 ### Contact page
-- Changed my <section> to <div> since I'm not using a header and only h2. 
+- Changed my section tag to div tag since I'm not using a header and only h2. 
 ### Thanks page
-- <button> issue and <section> issue, the same as the other pages. 
+- button tag issue and section tag issue, the same as the other pages. 
 
 ### CSS Stylesheet
 - Forgot to put px after a unit
