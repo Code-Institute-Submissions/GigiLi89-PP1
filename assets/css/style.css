@@ -93,15 +93,19 @@ main {
 
 /* Hero / Heading */
 #hero {
-    height: 400px;
+    height: 550px;
     width: 100%;
     background: url("../images/gy_hero_1.png") no-repeat center center/cover;
     position: relative;
 }
 
+#about {
+    margin: 40px;
+    text-align: center;
+}
+
 /* About section */
 #about h2 {
-    text-align: center;
     color: black;
     margin-top: 20px;
     text-transform: uppercase;
@@ -110,11 +114,6 @@ main {
 
 #about > p {
 padding: 30px;
-margin: 20px;
-text-align: center;
-border-radius: 25px;
-background: #ffffff;
-
 }
 
 #about > img {
@@ -196,7 +195,8 @@ background: #ffffff;
     }
     
     textarea {
-        padding: 15px 20px 20px 20px;
+        width: 300px;
+        height: 150px;
         margin-top: 10px;
         margin-bottom: 10px;
     }
@@ -308,7 +308,8 @@ background: #ffffff;
     }
     
     textarea {
-        padding: 15px 20px 20px 200px;
+        width: 600px;
+        height: 150px;
     }
 
 
@@ -316,6 +317,11 @@ background: #ffffff;
 @media screen and (min-width: 992px) {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
+    }
+
+    #about {
+        margin-left: 100px;
+        margin-right: 100px;
     }
 
     /* Gallery */
@@ -338,7 +344,8 @@ background: #ffffff;
     }
     
     textarea {
-        padding: 15px 30px 30px 500px;
+        width: 800px;
+        height: 150px;
     }
 
 }
@@ -346,6 +353,11 @@ background: #ffffff;
     /* Gallery */
     #image {
         column-count: 5;
+    }
+
+    #about {
+        margin-left: 125px;
+        margin-right: 125px;
     }
 
     #contact p {
@@ -364,10 +376,11 @@ background: #ffffff;
     }
     
     textarea {
-        padding: 15px 40px 40px 600px;
+        width: 1000px;
+        height: 150px;
     }
 
-    #button {
+    .button {
         width: 20%;
         font-size: 22px;
         }
