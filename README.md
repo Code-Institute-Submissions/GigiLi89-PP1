@@ -48,9 +48,20 @@ Bold was used mainly on the button texts with a weight of 900.
 The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
 I also added the thanks-page which I didn't plan for when I made the wireframes:
 
+### Mobile Wireframes:
 ![Wireframe mobile index](assets/img_readme/wfmobile_index.png) 
 ![Wireframe mobile gallery](assets/img_readme/wfmobile_gallery.png)
 ![Wirefram mobile contact](assets/img_readme/wfmobile_contact.png)
+
+### Tablet Wireframes:
+![Wireframe tablet index](assets/img_readme/wftab_index.png)
+![Wireframe tablet gallery](assets/img_readme/wftab_gallery.png)
+![Wireframe tablet contact](assets/img_readme/wftab_contact.png)
+
+### Desktop Wireframes:
+![Wireframe desktop index](assets/img_readme/wfdesk_index.png)
+![Wireframe desktop gallery](assets/img_readme/wfdesk_gallery.png)
+![Wireframe desktop contact](assets/img_readme/wfdesk_contact.png)
 
 ## Languages and resources:
 - HTML5 Markup language, used to make the site 
@@ -82,13 +93,13 @@ https://www.w3schools.com/tags/tag_button.asp
 - Style submit button:
 https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
 
-Form on Contact me page:
+- Form on Contact me page:
 https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
 
-Converter from png to webp:
+- Converter from png to webp:
 https://convertio.co/png-webp/
 
-Used this to check contrast, match background and text: 
+- Used this to check contrast, match background and text: 
 https://dequeuniversity.com/rules/axe/4.8/color-contrast
 
 ## W3C Validator
