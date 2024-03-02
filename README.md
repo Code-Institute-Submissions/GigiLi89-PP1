@@ -10,6 +10,11 @@ The site features a clear and simpel design that includes a navbar at the top ne
 - Gallery: Shows photos of my previous works. 
 - Contact: A form for contact, when submitted there will be a thank you page and a button to go back to homepage. 
 
+![Printscreen desktop index](assets/img_readme/print_index.png)
+![Printscreen desktop gallery](assets/img_readme/print_gallery.png)
+![Printscreen desktop contact](assets/img_readme/print_contact.png)
+![Printscreen desktop thanks](assets/img_readme/print_thanks.png)
+
 ## User Stories
 ### First time visitors:
 An inspirational page for someone interested in crochet.
