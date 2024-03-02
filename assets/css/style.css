@@ -18,8 +18,9 @@ body {
 }
 
 /* Logo (img) */
-#logo {
-    max-width: 100px;
+
+    #logo > img {
+        width: 250px;
     }
 
 /* Header */
@@ -258,6 +259,11 @@ form {
 }
 
 @media screen and (min-width: 576px) {
+   
+#logo > img {
+    width: 250px;
+}
+   
     #about > img {
         max-width: 300px;
     }
