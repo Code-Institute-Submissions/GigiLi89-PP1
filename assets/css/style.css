@@ -100,7 +100,7 @@ main {
 }
 
 #about {
-    margin: 40px;
+    margin: 20px;
     text-align: center;
 }
 
@@ -113,7 +113,7 @@ main {
 }
 
 #about > p {
-padding: 30px;
+padding: 20px;
 }
 
 #about > img {
@@ -162,6 +162,9 @@ padding: 30px;
     letter-spacing: 2px;
 }
 
+#gallery-head p {
+    text-align: center;
+}
 
 #image img {
     width: 100%;
@@ -281,11 +284,6 @@ padding: 30px;
         margin-top: 80px;
     }
 
-    /* Hero */
-    #cover-text {
-        width: 300px;
-        right: 50px;
-    }
 
     /* Gallery */
     #image {        
@@ -324,10 +322,19 @@ padding: 30px;
         margin-right: 100px;
     }
 
+    #about > p {
+        font-size: 20px;
+        }
+
     /* Gallery */
     #image {
         column-count: 4;
     }
+
+    #gallery-head p {
+        font-size: 20px;
+    }
+
     #contact p {
         padding: 20px;
         font-size: 20px;
@@ -359,6 +366,10 @@ padding: 30px;
         margin-left: 125px;
         margin-right: 125px;
     }
+
+    #about > p {
+        font-size: 22px;
+        }
 
     #contact p {
         padding: 25px;
