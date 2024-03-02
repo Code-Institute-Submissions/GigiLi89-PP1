@@ -73,6 +73,9 @@ I also added the thanks-page which I didn't plan for when I made the wireframes:
 - Google Fonts Where I have taken the fonts from 
 - Balwamiq Wireframes Program to create wireframes 
 - Canva Program to make hero-image and logo 
+- Converter from png to webp: https://convertio.co/png-webp/
+- Used this to check contrast, match background and text: 
+https://dequeuniversity.com/rules/axe/4.8/color-contrast
 
 ## Media
 - The logo was made by me in Canva. The hero-image was also made by me in Canva with photo included in for Canva Pro. 
@@ -96,11 +99,6 @@ https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-t
 - Form on Contact me page:
 https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
 
-- Converter from png to webp:
-https://convertio.co/png-webp/
-
-- Used this to check contrast, match background and text: 
-https://dequeuniversity.com/rules/axe/4.8/color-contrast
 
 ## W3C Validator
 Tested 2023-03-01, result: 
@@ -131,11 +129,11 @@ All issues has been taken care of and there are no more errors or warnings.
 
 After the first run I had some errors on the Performance (70) and Accessibility (82). 
 
-My first choice of color was a lighter brown (#AD795B) combined with a back font color. I used a color contrast tool (linked in my sources) and picked a slightly darker brown (#714C42)with a white font color instead. I also changed the logo to the same brown to match the rest of the site, this I did in Canva since I designed the logo myself. 
+My first choice of color was a lighter brown (#AD795B) combined with a back font color. I used a color contrast tool (linked in my resources) and picked a slightly darker brown (#714C42)with a white font color instead. I also changed the logo to the same brown to match the rest of the site, this I did in Canva since I designed the logo myself. 
 
 After those changes my Accessibility came up to 100. 
 
-My Performance was still on 70 and Lighthouse recommended to change my images from png to webp, which I did using a converter (also linked in my sources). This made my Performance board to go up to 75. Main problem is still my header/hero image. 
+My Performance was still on 70 and Lighthouse recommended to change my images from png to webp, which I did using a converter (also linked in my resources). This made my Performance board to go up to 75. Main problem is still my header/hero image. 
 
 ![Lighthouse error Mobile](assets/img_readme/lighthouse_error.png)
 
