@@ -31,10 +31,12 @@ The site should be organised, easy to navigate and to update information.
 ## Design
 
 ### Colour scheme
-- #AD795B
+- #000000
+- #2B1A05
+- #714C42
 - #FAFAF8
 
-![Color palette][assets/images/color_palette.png]
+![Color palette][assets/img_readme/gy_palette.png]
 
 Color palette created using Canva.
 The colors are very neutral with a lot of brown and beige colors, this is to match all the colors in the photos and let the photos "decorate" the site. 
@@ -75,6 +77,15 @@ https://www.w3schools.com/tags/tag_button.asp
 - Style submit button:
 https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
 
+Form on Contact me page:
+https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
+
+Converter from png to webp:
+https://convertio.co/png-webp/
+
+Used this to check contrast, match background and text: 
+https://dequeuniversity.com/rules/axe/4.8/color-contrast
+
 ## Wireframe
 The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
 
@@ -99,5 +110,27 @@ All issues has been taken care of and there are no more errors or warnings.
 
 2023-03-02: Tested the site again after testing it on Lighthouse, no errors were found. 
 
-[assets/images/color_palette.png]: assets/images/color_palette.png
+## Lighthouse testing
+2023-03-02, result: 
+
+### Mobile version:
+![Lighthouse result Mobile](assets/img_readme/lighthouse_result.png)
+
+After the first run I had some errors on the Performance (70) and Accessibility (82). 
+
+My first choice of color was a lighter brown (#AD795B) combined with a back font color. I used a color contrast tool (linked in my sources) and picked a slightly darker brown (#714C42)with a white font color instead. I also changed the logo to the same brown to match the rest of the site, this I did in Canva since I designed the logo myself. 
+
+After those changes my Accessibility came up to 100. 
+
+My Performance was still on 70 and Lighthouse recommended to change my images from png to webp, which I did using a converter (also linked in my sources). This made my Performance board to go up to 75. Main problem is still my header/hero image. 
+
+![Lighthouse error Mobile](assets/img_readme/lighthouse_error.png)
+
+### Desktop version:
+![Lighthouse result Desktop](assets/img_readme/lighthouse_resultdesk.png)
+
+The desktop came back with a better result. The Performance is still not where I want it to be but 85 is better than the mobile versions 75. I ran the mobile version and fixed the errors the best I could. This most likely has effected the results for the desktop results as I ran that after.
+
+![Lighthouse error Desktop](assets/img_readme/lighthouse_errordesk.png)
+
 
