@@ -11,7 +11,6 @@ The site features a clear and simpel design that includes a navbar at the top ne
 - Contact: A form for contact, when submitted there will be a thank you page and a button to go back to homepage. 
 
 ## User Stories
-
 ### First time visitors:
 An inspirational page for someone interested in crochet.
 Puschase finished products or the pattern. 
@@ -26,17 +25,16 @@ Potentional customer wanting to know prices and what else is offered
 
 
 ## Site Administrator
-The site should be organised, easy to navigate and to update information.
+The site should be organised, easy to navigate and to easy to update information and new images to the gallery.
 
 ## Design
-
 ### Colour scheme
 - #000000
 - #2B1A05
 - #714C42
 - #FAFAF8
 
-![Color palette][assets/img_readme/gy_palette.png]
+![Color palette](assets/img_readme/gy_palette.png)
 
 Color palette created using Canva.
 The colors are very neutral with a lot of brown and beige colors, this is to match all the colors in the photos and let the photos "decorate" the site. 
@@ -46,6 +44,13 @@ For the logo (made in Canva) I used ITC Avant Garde Gothic and Gothham.
 For the rest of the site I used the linked Google Fonts with Poppins and the the fallback font is sans-serif. 
 Bold was used mainly on the button texts with a weight of 900. 
 
+## Wireframe
+The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
+I also added the thanks-page which I didn't plan for when I made the wireframes:
+
+![Wireframe mobile index](assets/img_readme/wfmobile_index.png) 
+![Wireframe mobile gallery](assets/img_readme/wfmobile_gallery.png)
+![Wirefram mobile contact](assets/img_readme/wfmobile_contact.png)
 
 ## Languages and resources:
 - HTML5 Markup language, used to make the site 
@@ -85,9 +90,6 @@ https://convertio.co/png-webp/
 
 Used this to check contrast, match background and text: 
 https://dequeuniversity.com/rules/axe/4.8/color-contrast
-
-## Wireframe
-The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
 
 ## W3C Validator
 Tested 2023-03-01, result: 
