@@ -95,7 +95,7 @@ main {
 #hero {
     height: 500px;
     width: 100%;
-    background: url("../images/gy_hero_1.webp") no-repeat center center/cover;
+    background: url("../images/yarn.webp.webp") no-repeat center center/cover;
     position: relative;
 }
 
@@ -258,10 +258,15 @@ form {
 }
 
 @media screen and (min-width: 576px) {
+    #about > img {
+        max-width: 300px;
+    }
+    
     #image {
         column-count: 2;
         column-gap: 0;
     }
+
 }
 @media screen and (min-width: 768px) {
     nav {
@@ -286,8 +291,12 @@ form {
 
     #logo {
         font-size: 280%;
-        line-height: 75px;
-        margin: 0 0.5rem;
+        line-height: 40px;
+        margin: 0 1rem;
+    }
+
+    #logo > img {
+        width: 350px;
     }
 
        /* Main content */
@@ -296,7 +305,10 @@ form {
         margin-top: 80px;
     }
 
-
+    #about > img {
+        max-width: 450px;
+        max-height: 450px;
+    }    
     /* Gallery */
     #image {        
         column-count: 3;
@@ -318,6 +330,10 @@ form {
         border-bottom: 1px solid #3a3a3a;
     }
 
+    #logo > img {
+        width: 350px;
+    }
+
     #about {
         margin-left: 100px;
         margin-right: 100px;
@@ -326,6 +342,11 @@ form {
     #about > p {
         font-size: 20px;
         }
+
+    #about > img {
+        max-width: 500px;
+        max-height: 500px;
+    }    
 
     /* Gallery */
     #image {
@@ -346,6 +367,11 @@ form {
     }
 }
 @media screen and (min-width: 1200px) {
+    
+    #logo > img {
+        width: 400px;
+    }
+    
     /* Gallery */
     #image {
         column-count: 5;
@@ -359,6 +385,11 @@ form {
     #about > p {
         font-size: 22px;
         }
+
+        #about > img {
+            max-width: 550px;
+            max-height: 550px;
+        }    
 
     #contact p {
         padding: 25px;
