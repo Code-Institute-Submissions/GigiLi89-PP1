@@ -85,7 +85,7 @@ nav {
 /* Main */
 main {
     /* Push footer down */
-    flex: 1 0 auto;
+    flex: 2 0 auto;
     margin-top: 150px;
     display: flex;
     flex-direction: column;
@@ -94,7 +94,7 @@ main {
 
 /* Hero / Heading */
 #hero {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background: url("../images/head.webp") no-repeat center center/cover;
     position: relative;
@@ -226,6 +226,17 @@ form {
         border-radius: 15px;
     }
 
+.contact_deco_img {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.contact_deco_img > img {
+    border-radius: 10%;
+    max-width: 80%;
+}
+
     /* Thank you section */
 #thanks h3 {
     text-align: center;
@@ -299,7 +310,7 @@ form {
     }
 
     #logo > img {
-        width: 350px;
+        width: 300px;
     }
 
        /* Main content */
