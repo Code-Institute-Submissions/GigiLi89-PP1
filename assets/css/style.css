@@ -227,6 +227,10 @@ form {
         cursor: pointer;
     }
 
+    #request {
+        width: 70%;
+    }
+
     .submit {
         font-size: 20px;
         background-color: #714C42;
