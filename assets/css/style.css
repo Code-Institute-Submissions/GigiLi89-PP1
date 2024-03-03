@@ -94,10 +94,23 @@ main {
 
 /* Hero / Heading */
 #hero {
-    height: 400px;
+    height: 350px;
     width: 100%;
     background: url("../images/head.webp") no-repeat center center/cover;
     position: relative;
+}
+
+#hero-text {
+    /* Final rgba value sets the opacity so it is semi-transparent */
+    background-color: rgba(113, 76, 66, 0.8);
+    color:#ffffff;
+    font-size: 80%;
+    position: absolute;
+    bottom: 30px;
+    width: 100%;
+    min-height: 100px;
+    padding: 20px;
+    text-align: center;
 }
 
 .box {
@@ -313,6 +326,14 @@ form {
         width: 300px;
     }
 
+    #hero {
+        height: 420px; 
+    }
+
+    #hero-text {
+        font-size: 160%;
+    }
+
        /* Main content */
        main {
         /* Push main content down to accommodate larger header */
@@ -346,6 +367,18 @@ form {
 
     #logo > img {
         width: 350px;
+    }
+
+    #hero {
+        height: 500px;
+
+    /* Hero */
+    #hero-text {
+        font-size: 180%;
+        bottom: 40px;
+        width: 100%;
+        min-height: 100px;
+        padding: 40px;
     }
 
     #about {
@@ -385,7 +418,20 @@ form {
     #logo > img {
         width: 400px;
     }
-    
+    #hero {
+        height: 650px;
+
+    /* Hero */
+    #hero-text {
+        font-size: 200%;
+        position: absolute;
+        bottom: 30px;
+        width: 100%;
+        min-height: 100px;
+        padding: 40px;
+        text-align: center;
+    }
+
     /* Gallery */
     #image {
         column-count: 5;
@@ -419,3 +465,4 @@ form {
             font-size: 300%;
         }
 }
+}}
