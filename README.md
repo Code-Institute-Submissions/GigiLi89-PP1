@@ -86,8 +86,11 @@ I also added the thanks-page which I didn't plan for when I made the wireframes:
 - Balwamiq Wireframes Program to create wireframes 
 - Canva Program to make hero-image and logo 
 - Converter from png to webp: https://convertio.co/png-webp/
-- Used this to check contrast, match background and text: 
-https://dequeuniversity.com/rules/axe/4.8/color-contrast
+- Used this to check contrast, match background and text: https://dequeuniversity.com/rules/axe/4.8/color-contrast
+- Lighthouse DevTool
+- W3C Validator HTML: https://validator.w3.org/
+- W3C Validator CSS: https://jigsaw.w3.org/css-validator/
+- README exampel from my mentor: https://github.com/rhysbobbett/heartenhorticulture
 
 ## Media
 - The logo was made by me in Canva. The hero-image was also made by me in Canva with photo included in for Canva Pro. 
@@ -131,8 +134,6 @@ Tested 2023-03-01, result:
 
 All issues has been taken care of and there are no more errors or warnings. 
 
-2023-03-02: Tested the site again after testing it on Lighthouse, no errors were found. 
-
 ## Lighthouse testing
 2023-03-02, result: 
 
@@ -156,4 +157,12 @@ The desktop came back with a better result. The Performance is still not where I
 
 ![Lighthouse error Desktop](assets/img_readme/lighthouse_errordesk.png)
 
+## W3C Validator 
+2023-03-02: Tested the site again after testing it on Lighthouse, no errors were found. 
+
+![W3C Validator HTML](assets/img_readme/w3c_html.png)
+![W3C Validator CSS](assets/img_readme/w3c_css.png)
+
+One warning: 
+![W3C Validator Warning](assets/img_readme/w3c_warning.png)
 
