@@ -157,11 +157,11 @@ The desktop came back with a better result. The Performance is still not where I
 
 ![Lighthouse error Desktop](assets/img_readme/lighthouse_errordesk.png)
 
-## W3C Validator 
+### W3C Validator 
 2023-03-02: Tested the site again after testing it on Lighthouse, no errors were found. 
 
-![W3C Validator HTML](assets/img_readme/w3c_html.png)
-![W3C Validator CSS](assets/img_readme/w3c_css.png)
+![W3C Validator HTML no errors](assets/img_readme/w3c_html.png)
+![W3C Validator CSS no errors](assets/img_readme/w3c_css.png)
 
 One warning: 
 ![W3C Validator Warning](assets/img_readme/w3c_warning.png)
