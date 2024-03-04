@@ -101,18 +101,15 @@ I also added the thanks-page which I didn't plan for when I made the wireframes:
 
 ## Sources
 - Love Running Walkthrough Project from Code Institute
-
+- Code Institutes Learning Modules
 - Center image (Page 1):
 https://www.w3schools.com/howto/howto_css_image_center.asp
-
-- Button to Gallery: 
-https://www.w3schools.com/tags/tag_button.asp
-
 - Style submit button:
 https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
-
 - Form on Contact me page:
 https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
+- Jon Duckett: HTML&CSS Design and build websites (book)
+- Tommy Olsson: Max räckvidd med HTML & CSS (Swedish book)
 
 
 ## W3C Validator

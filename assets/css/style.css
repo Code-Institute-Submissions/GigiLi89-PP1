@@ -1,7 +1,7 @@
 /* Imported Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-/* Asterisk */
+/* Asterisk, used parts of the code from Love running walkthrough project from Code Institute */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +9,7 @@
     text-decoration: none;
 }
 
+/* Used parts of the code from Love running walkthrough project from Code Institute */
 body {
     min-height: 100vh;
     display: flex;
@@ -36,11 +37,13 @@ header {
 
 }
 
+/* Used code from the Love Running Walkthoguh Project from Code Institute */
 header a {
     text-decoration: none;
     color: inherit;
 }
 
+/* Used parts of the code from the Love Running Walkthoguh Project from Code Institute */
 #menu {
     font-size: 140%;
     letter-spacing: 1px;
@@ -50,15 +53,16 @@ header a {
     margin-top: 10px;
 }
 
+/* Used code from the Love Running Walkthoguh Project from Code Institute */
 #menu > li {
     margin-bottom: 1em;
 }
-
+/* Used parts of the code from the Love Running Walkthoguh Project from Code Institute */
 .active {
     border-bottom: 1px solid #714C42;
 }
 
-/* Navbar styles with dropdown menu */
+/* Navbar styles with dropdown menu, parts of the code from Love Running Walkthrough Project from Code Institute */
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -69,7 +73,6 @@ nav {
     top: 100%;
 }
 
-/* Toggle */
 #nav-toggle:checked ~ nav{
     display: block;
 }
@@ -82,7 +85,7 @@ nav {
     font-size: 2rem;
 }
 
-/* Main */
+/* Main, Used code from Love Running Walkthoguh Project from Code Institute */
 main {
     /* Push footer down */
     flex: 2 0 auto;
@@ -92,7 +95,7 @@ main {
 }
 
 
-/* Hero / Heading (Picture from Pexel)*/
+/* Hero with titel text (Picture from Pexel) Parts of the code from Love Running Walkthoguh Project from Code Institute*/
 #hero {
     height: 350px;
     width: 100%;
@@ -101,7 +104,6 @@ main {
 }
 
 #title-text {
-    /* Final rgba value sets the opacity so it is semi-transparent */
     background-color: rgba(113, 76, 66, 0.8);
     color:#ffffff;
     font-size: 80%;
@@ -113,6 +115,7 @@ main {
     text-align: center;
 }
 
+/* About section */
 .box {
     background-color: white;
     margin-top: 10px;
@@ -125,7 +128,6 @@ main {
     text-align: center;
 }
 
-/* About section */
 #about h2 {
     color: black;
     margin-top: 20px;
@@ -168,9 +170,10 @@ margin: 10px;
     }
     
     a {
-color: white;
+    color: white;
     }
     
+/* Tutor helped to override so I could change text color */    
     a:hover, a:focus, a:active {
         color: #2b1a05;
     }
@@ -208,6 +211,7 @@ color: white;
     text-align: center;
     }
 
+/*Parts of the code from W3C*/
 form {
     width: 100%;
     padding: 12px 20px;
@@ -219,6 +223,7 @@ form {
     cursor: pointer;
     }
 
+    /*Used some of the code from W3C*/
     input[type=text] {
         width: 60%;
         padding: 14px 20px;
@@ -229,6 +234,7 @@ form {
         cursor: pointer;
     }
 
+    /* Used some of the code for #request and .submit from stack overflow*/
     #request {
         width: 70%;
         font-size: 20px;
@@ -266,8 +272,7 @@ form {
     padding: 20px;
 }    
 
-/* Footer */
-
+/* Footer, parts of the code from the Love Running Project from Code Institute */
 #socialmedia {
     text-align: center;
     padding: 30px 0;
@@ -306,6 +311,8 @@ form {
 
 }
 @media screen and (min-width: 768px) {
+    
+    /* Code from Love Running Walktrough Project from Code Institute */
     nav {
         display: block;
         position: relative;
@@ -314,18 +321,20 @@ form {
         padding-right: 1rem;
     }
 
+    /* Code from Love Running Walktrough Project from Code Institute */
     #menu {
         display: flex;
     }
-
+    /* Code from Love Running Walktrough Project from Code Institute */
     #menu > li {
         padding-left: 1rem;
     }
-
+    /* Code from Love Running Walktrough Project from Code Institute */
     .nav-toggle-label {
         display: none;
     }
 
+    /* Parts of code from Love Running Walktrough Project from Code Institute */
     #logo {
         font-size: 280%;
         line-height: 40px;
@@ -354,7 +363,7 @@ form {
         max-width: 450px;
         max-height: 450px;
     }    
-    /* Gallery */
+    /* Gallery, code from Love Running Walktrough Project from Code Institute */
     #image {        
         column-count: 3;
     }
@@ -371,6 +380,7 @@ form {
 
 } 
 @media screen and (min-width: 992px) {
+        /* Code from Love Running Walktrough Project from Code Institute */
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
@@ -403,7 +413,7 @@ form {
         max-height: 500px;
     }    
 
-    /* Gallery */
+    /* Gallery, code from Love Running Walktrough Project from Code Institute */
     #image {
         column-count: 4;
     }
@@ -434,7 +444,7 @@ form {
         font-size: 200%;
     }
 
-    /* Gallery */
+    /* Gallery, code from Love Running Walktrough Project from Code Institute */
     #image {
         column-count: 5;
     }
