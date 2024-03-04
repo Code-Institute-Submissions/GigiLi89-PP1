@@ -51,14 +51,13 @@ The desktop came back with a better result. The Performance is still not where I
 One warning: 
 ![W3C Validator Warning](assets/img_readme/w3c_warning.png)
 
-## Testing
-I decided to add a text in hero last night so I had to redo the testing today. 
-This time I deployed my site and tested the deployed version,  results 2023-03-04:
+## Full testing 
+Results 2023-03-04:
 
-| FULL TESTING 2023-03-04       | Lenovo IdeaPad 1 14ADA7                    | Google Chrome           |                                         |           |
-|-------------------------------|--------------------------------------------|-------------------------|-----------------------------------------|-----------|
-|                               |                                            |                         |                                         |           |
+Tested with Lenovo IdeaPad 1 14ADA7 in Google Chrome
+
 | FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+|-------------------------------|--------------------------------------------|-------------------------|-----------------------------------------|-----------|
 | INDEX PAGE                    |                                            |                         |                                         |           |
 | Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
 | Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
@@ -109,10 +108,11 @@ This time I deployed my site and tested the deployed version,  results 2023-03-0
 |                               |                                            |                         |                                         |           |
 | Bugs known: 0                 |                                            |                         |                                         |           |
 | Solved Bugs: 0                |                                            |                         |                                         |           |
-|                               |                                            |                         |                                         |           |
-| FULL TESTING 2023-03-04       | Lenovo IdeaPad 1 14ADA7                    | Microsoft Edge          |                                         |           |
-|                               |                                            |                         |                                         |           |
+
+Tested with Lenovo IdeaPad 1 14ADA7 in Microsoft Edge
+
 | FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+|-------------------------------|--------------------------------------------|-------------------------|-----------------------------------------|-----------|
 | INDEX PAGE                    |                                            |                         |                                         |           |
 | Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
 | Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
@@ -163,10 +163,11 @@ This time I deployed my site and tested the deployed version,  results 2023-03-0
 |                               |                                            |                         |                                         |           |
 | Bugs known: 0                 |                                            |                         |                                         |           |
 | Solved Bugs: 0                |                                            |                         |                                         |           |
-|                               |                                            |                         |                                         |           |
-| FULL TESTING 2023-03-04       | Ipad mini 4                                | Safari                  |                                         |           |
-|                               |                                            |                         |                                         |           |
+
+Tested with Ipad Mini 4 on Safari
+
 | FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+|-------------------------------|--------------------------------------------|-------------------------|-----------------------------------------|-----------|
 | INDEX PAGE                    |                                            |                         |                                         |           |
 | Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
 | Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
@@ -214,10 +215,11 @@ This time I deployed my site and tested the deployed version,  results 2023-03-0
 |                               |                                            |                         |                                         |           |
 | Bugs known: 0                 |                                            |                         |                                         |           |
 | Solved Bugs: 0                |                                            |                         |                                         |           |
-|                               |                                            |                         |                                         |           |
-| FULL TESTING 2023-03-04       | Iphone 11 Pro Max                          | Safari                  |                                         |           |
-|                               |                                            |                         |                                         |           |
+
+Tested on an Iphone 11 Pro Max on Safari
+
 | FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+|-------------------------------|--------------------------------------------|-------------------------|-----------------------------------------|-----------|
 | INDEX PAGE                    |                                            |                         |                                         |           |
 | Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
 | Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
