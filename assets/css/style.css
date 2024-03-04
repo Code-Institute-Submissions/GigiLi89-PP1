@@ -92,7 +92,7 @@ main {
 }
 
 
-/* Hero / Heading */
+/* Hero / Heading (Picture from Pexel)*/
 #hero {
     height: 350px;
     width: 100%;
@@ -138,6 +138,7 @@ padding: 10px;
 margin: 10px;
 }
 
+/* Some of the code from W3C "How to center an image */
 #about > img {
     display: block;
     margin-left: auto;

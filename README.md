@@ -93,6 +93,7 @@ I also added the thanks-page which I didn't plan for when I made the wireframes:
 - W3C Validator HTML: https://validator.w3.org/
 - W3C Validator CSS: https://jigsaw.w3.org/css-validator/
 - README exampel from my mentor: https://github.com/rhysbobbett/heartenhorticulture
+- Color picker (For the background): https://htmlcolorcodes.com/
 
 ## Media
 - The logo was made by me in Canva. The hero-image was also made by me in Canva with photo included in for Canva Pro. 
@@ -103,9 +104,6 @@ I also added the thanks-page which I didn't plan for when I made the wireframes:
 
 - Center image (Page 1):
 https://www.w3schools.com/howto/howto_css_image_center.asp
-
-- Color picker (For the background): 
-https://htmlcolorcodes.com/
 
 - Button to Gallery: 
 https://www.w3schools.com/tags/tag_button.asp
