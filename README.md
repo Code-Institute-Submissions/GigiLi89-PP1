@@ -3,6 +3,8 @@
 # Gigis Yarn
 Gigis Yarn is designed to be a digital gallery for handmade crochet artwork. On the site users will find handmade baby toys and accessories. The site is for inspirational purposes and user can even buy items or patterns. 
 
+![Am I Responsive](assets/img_readme/amiresponsive.png)
+
 ## Features
 The site features a clear and simpel design that includes a navbar at the top next to the logo. In the navbar there is a menu (burger-menu for mobile-devices and buttons for other larger devices) with three buttons – Home, Photos and Contact. There is also a footer containing working icons of Facebook, Instagram and Contact.  
 
@@ -148,6 +150,8 @@ After those changes my Accessibility came up to 100.
 
 My Performance was still on 70 and Lighthouse recommended to change my images from png to webp, which I did using a converter (also linked in my resources). This made my Performance board to go up to 75. Main problem is still my header/hero image. 
 
+Lightroom also cautioned about my logo (an image) and wanted it to be 375x225px instead of 250x150px. So I changed it the larger size and used my media query to change the size depending on device. 
+
 ![Lighthouse error Mobile](assets/img_readme/lighthouse_error.png)
 
 ### Desktop version:
@@ -167,3 +171,6 @@ One warning:
 ![W3C Validator Warning](assets/img_readme/w3c_warning.png)
 
 ## Testing
+I decided to add a text in hero last night so I had to redo the testing today. 
+This time I deployed my site and tested the deployed version,  results 2023-03-04:
+
