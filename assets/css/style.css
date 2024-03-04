@@ -100,7 +100,7 @@ main {
     position: relative;
 }
 
-#hero-text {
+#title-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
     background-color: rgba(113, 76, 66, 0.8);
     color:#ffffff;
@@ -334,7 +334,7 @@ form {
         height: 420px; 
     }
 
-    #hero-text {
+    #title-text {
         font-size: 160%;
     }
 
@@ -375,13 +375,11 @@ form {
 
     #hero {
         height: 500px;
-
+    }
     /* Hero */
-    #hero-text {
+    #title-text {
         font-size: 180%;
         bottom: 40px;
-        width: 100%;
-        min-height: 100px;
         padding: 40px;
     }
 
@@ -424,16 +422,10 @@ form {
     }
     #hero {
         height: 650px;
-
+    }
     /* Hero */
-    #hero-text {
+    #title-text {
         font-size: 200%;
-        position: absolute;
-        bottom: 30px;
-        width: 100%;
-        min-height: 100px;
-        padding: 40px;
-        text-align: center;
     }
 
     /* Gallery */
@@ -469,4 +461,3 @@ form {
             font-size: 300%;
         }
 }
-}}
