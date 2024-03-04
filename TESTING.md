@@ -55,3 +55,213 @@ One warning:
 I decided to add a text in hero last night so I had to redo the testing today. 
 This time I deployed my site and tested the deployed version,  results 2023-03-04:
 
+| FULL TESTING 2023-03-04       | Lenovo IdeaPad 1 14ADA7                    | Google Chrome           |                                         |           |
+|-------------------------------|--------------------------------------------|-------------------------|-----------------------------------------|-----------|
+|                               |                                            |                         |                                         |           |
+| FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+| INDEX PAGE                    |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Home Active button    | Underlined when visiting Home page         | Visited Home page       | Home link underlined                    | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Gallery button                | Click button to redirect to Gallery page   | Clicked button          | Redirected to Gallery page              | Pass      |
+| Gallery button (hover)        | When hover the text color goes black       | Hover                   | Text color went black                   | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| GALLERY PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Gallery Active button | Underlined when visiting Gallery page      | Visited Gallery page    | Gallery link underlined                 | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Contact button                | Click button to redirect to Contact page   | Clicked button          | Redirected to Contact page              | Pass      |
+| Contact button (hover)        | When hover the text color goes black       | Hover                   | Text color went black                   | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| CONTACT PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Nav bar Contact Active button | Underlined when visiting Contact page      | Visited Contact page    | Contact link underlined                 | Pass      |
+| Form for name and email       | Name is required to be filled to submit    | Added my name and email | Could be submitted                      | Pass      |
+| Textarea for requests         | Add text to the form                       | Added text to textarea  | Text was added to textarea              | Pass      |
+| Submit button                 | Redirected to Thanks page                  | Clicked button          | Redirected to Thanks page               | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| THANKS PAGE                   |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Homepage button               | Click button to redirect back to Home page | Clicked button          | Redirected back to the Home page        | Pass      |
+| Homepage button (hover)       | When hover the text color goes black       | Hover                   | Text color went black                   | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| Bugs known: 0                 |                                            |                         |                                         |           |
+| Solved Bugs: 0                |                                            |                         |                                         |           |
+|                               |                                            |                         |                                         |           |
+| FULL TESTING 2023-03-04       | Lenovo IdeaPad 1 14ADA7                    | Microsoft Edge          |                                         |           |
+|                               |                                            |                         |                                         |           |
+| FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+| INDEX PAGE                    |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Home Active button    | Underlined when visiting Home page         | Visited Home page       | Home link underlined                    | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Gallery button                | Click button to redirect to Gallery page   | Clicked button          | Redirected to Gallery page              | Pass      |
+| Gallery button (hover)        | When hover the text color goes black       | Hovered over button     | Text color went black                   | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| GALLERY PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Gallery Active button | Underlined when visiting Gallery page      | Visited Gallery page    | Gallery link underlined                 | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Contact button                | Click button to redirect to Contact page   | Clicked button          | Redirected to Contact page              | Pass      |
+| Contact button (hover)        | When hover the text color goes black       | Hovered over button     | Text color went black                   | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| CONTACT PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Nav bar Contact Active button | Underlined when visiting Contact page      | Visited Contact page    | Contact link underlined                 | Pass      |
+| Form for name and email       | Name is required to be filled to submit    | Added my name and email | Could be submitted                      | Pass      |
+| Textarea for requests         | Add text to the form                       | Added text to textarea  | Text was added to textarea              | Pass      |
+| Submit button                 | Redirected to Thanks page                  | Clicked button          | Redirected to Thanks page               | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| THANKS PAGE                   |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Homepage button               | Click button to redirect back to Home page | Clicked button          | Redirected back to the Home page        | Pass      |
+| Homepage button (hover)       | When hover the text color goes black       | Hovered over button     | Text color went black                   | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| Bugs known: 0                 |                                            |                         |                                         |           |
+| Solved Bugs: 0                |                                            |                         |                                         |           |
+|                               |                                            |                         |                                         |           |
+| FULL TESTING 2023-03-04       | Ipad mini 4                                | Safari                  |                                         |           |
+|                               |                                            |                         |                                         |           |
+| FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+| INDEX PAGE                    |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Home Active button    | Underlined when visiting Home page         | Visited Home page       | Home link underlined                    | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Gallery button                | Click button to redirect to Gallery page   | Clicked button          | Redirected to Gallery page              | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| GALLERY PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Gallery Active button | Underlined when visiting Gallery page      | Visited Gallery page    | Gallery link underlined                 | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Contact button                | Click button to redirect to Contact page   | Clicked button          | Redirected to Contact page              | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| CONTACT PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Nav bar Contact Active button | Underlined when visiting Contact page      | Visited Contact page    | Contact link underlined                 | Pass      |
+| Form for name and email       | Name is required to be filled to submit    | Added my name and email | Could be submitted                      | Pass      |
+| Textarea for requests         | Add text to the form                       | Added text to textarea  | Text was added to textarea              | Pass      |
+| Submit button                 | Redirected to Thanks page                  | Clicked button          | Redirected to Thanks page               | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| THANKS PAGE                   |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Homepage button               | Click button to redirect back to Home page | Clicked button          | Redirected back to the Home page        | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| Bugs known: 0                 |                                            |                         |                                         |           |
+| Solved Bugs: 0                |                                            |                         |                                         |           |
+|                               |                                            |                         |                                         |           |
+| FULL TESTING 2023-03-04       | Iphone 11 Pro Max                          | Safari                  |                                         |           |
+|                               |                                            |                         |                                         |           |
+| FEATURES                      | EXPECTED OUTCOME                           | TESTING PERFOMED        | RESULT                                  | PASS/FAIL |
+| INDEX PAGE                    |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Home Active button    | Underlined when visiting Home page         | Visited Home page       | Home link underlined                    | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Gallery button                | Click button to redirect to Gallery page   | Clicked button          | Redirected to Gallery page              | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| GALLERY PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Gallery Active button | Underlined when visiting Gallery page      | Visited Gallery page    | Gallery link underlined                 | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Contact button                | Click button to redirect to Contact page   | Clicked button          | Redirected to Contact page              | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| CONTACT PAGE                  |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Nav bar Contact Active button | Underlined when visiting Contact page      | Visited Contact page    | Contact link underlined                 | Pass      |
+| Form for name and email       | Name is required to be filled to submit    | Added my name and email | Could be submitted                      | Pass      |
+| Textarea for requests         | Add text to the form                       | Added text to textarea  | Text was added to textarea              | Pass      |
+| Submit button                 | Redirected to Thanks page                  | Clicked button          | Redirected to Thanks page               | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| THANKS PAGE                   |                                            |                         |                                         |           |
+| Logo image link               | Image is linked back to Home page          | Clicked logo            | Redirected back to the Home page        | Pass      |
+| Nav bar Home link             | Click link to redirect to Home page        | Clicked link            | Redirected to Home page                 | Pass      |
+| Nav bar Gallery link          | Click link to redirect to Gallery page     | Clicked link            | Redirected to Gallery page              | Pass      |
+| Nav bar Contact link          | Click link to redirect to Contact page     | Clicked link            | Redirected to Contact page              | Pass      |
+| Homepage button               | Click button to redirect back to Home page | Clicked button          | Redirected back to the Home page        | Pass      |
+| Facebook icon button          | Redirected to FB page in new tab           | Clicked icon            | Redirected to FB page in new tab        | Pass      |
+| Instagram icon button         | Redirected to Instagram page in new tab    | Clicked icon            | Redirected to Instagram page in new tab | Pass      |
+| Contact icon button           | Redirected to Contact page                 | Clicked icon            | Redirected to Contact page              | Pass      |
+|                               |                                            |                         |                                         |           |
+| Bugs known: 0                 |                                            |                         |                                         |           |
+| Solved Bugs: 0                |                                            |                         |                                         |           |
