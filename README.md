@@ -13,7 +13,7 @@ The site features a clear and simpel design that includes a navbar at the top ne
 - Contact: A form for contact, when submitted there will be a thank you page and a button to go back to homepage. 
 
 ### Homepage
-![Printscreen desktop index](assets/img_readme/print_index.png)
+![Printscreen desktop index](assets/img_readme/print_index1.png)
 
 ### Gallery 
 ![Printscreen desktop gallery](assets/img_readme/print_gallery.png)

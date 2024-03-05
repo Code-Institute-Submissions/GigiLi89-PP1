@@ -71,8 +71,9 @@ The desktop came back with a better result. The Performance is still not where I
 One warning: 
 ![W3C Validator Warning](assets/img_readme/w3c_warning.png)
 
+# Testing results 2023-03-04:
+
 ## Full testing 
-Results 2023-03-04:
 
 The test was performed on the following devices and browsers:
 - Lenovo IdeaPad 1 14ADA7: Google Chrome and Microsoft Edge
@@ -85,7 +86,7 @@ The test was performed on the following devices and browsers:
 The functions vary depending on what device the test was performed on. 
 For e.g. Click Facebook button can either redirect to new tab or open in app. 
 
-No bugs were found. 
+I have clicked and tested all functions on the site on different devices as well as on different browsers and apps to make sure the site is functional and responsive. 
 
 
 | FEATURES                      | EXPECTED OUTCOME                               | TESTING PERFOMED        | RESULT                                         | PASS/FAIL |
@@ -140,3 +141,17 @@ No bugs were found.
 |                               |                                                |                         |                                                |           |
 | Bugs known: 0                 |                                                |                         |                                                |           |
 | Solved Bugs: 0                |                                                |                         |                                                |           |
+
+## WAVE Testing
+![Wave testing summary](assets/img_readme/wave_sum.png)
+![Wave testing alert](assets/img_readme/wave_alert.png)
+![Wave testing built](assets/img_readme/wave_built.png)
+![Wave testing contrast](assets/img_readme/wave_contrast.png)
+
+The 1 error for the empty label is due to the navbar, I'll therefor just leave it as it is. 
+The 3 alerts is for me missing first level heading, I chose not to have that and will therefor not address the alert. The second alert is because I've links back to the page and the third alert is because the Copyright text in the footer is small, which I want to keep small. 
+All pages was tested with Wave they all had the same error and alerts. 
+
+## W3C HTML Validator & W3C CSS Validator
+![W3C Validator HTML no errors](assets/img_readme/w3c_html.png)
+![W3C Validator CSS no errors](assets/img_readme/w3c_css.png)
