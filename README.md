@@ -102,13 +102,13 @@ I also added the thanks-page which I didn't plan for when I made the wireframes:
 ## Sources
 - Love Running Walkthrough Project from Code Institute
 - Code Institutes Learning Modules
-- Center image (Page 1):
-https://www.w3schools.com/howto/howto_css_image_center.asp
-- Style submit button:
-https://stackoverflow.com/questions/38149704/why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
-- Form on Contact me page:
-https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
+- Center image (Page 1): https://www.w3schools.com/howto/howto_css_image_center.asp
+- Style submit button: https://stackoverflow.com/questions/38149704why-does-the-text-inside-an-input-tag-get-cut-off-even-if-theres-already-a-pa
+- Form on Contact me page: https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
 - Jon Duckett: HTML&CSS Design and build websites (book)
 - Tommy Olsson: Max räckvidd med HTML & CSS (Swedish book)
+Examples that helped me with README and TESTING:
+- https://github.com/kera-cudmore/earth-day-hackathon-2022/blob/main/TESTING.md#WAVE
+- https://github.com/rhysbobbett/heartenhorticulture/blob/main/README.md
 
 

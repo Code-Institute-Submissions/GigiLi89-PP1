@@ -1,3 +1,23 @@
+# Testing
+
+Test have been an ongoing procedure under the entire build of the site. I used Google Chrome and the DevTool to locate and troubleshoot any issues. DevTool helped me locate the issue in my HTML or CSS either in code or the box-model. The closer I got to a finished product the more I tested the site. 
+
+I've tested the site multiple times using DevTools and different devices to make sure the website is responsiv. When using the DevTools Dimensions I mainly chose between: 
+- Responsiv
+- Desktop
+- Iphone 12 Pro
+- Samsung Galaxy S8
+- Ipad Mini
+- Asus Zenbook Fold
+The tests were made on each page of the site testing the funtions as well. 
+
+Following tools were also used for testing: 
+- W3C HTML Validator
+- W3C CSS Validator
+- WAVE Web Accessibility tool
+
+The most recents tests can be found below:
+
 ## W3C Validator
 Tested 2023-03-01, result: 
 ### Index page
