@@ -65,7 +65,7 @@ The desktop came back with a better result. The Performance is still not where I
 ### W3C Validator 
 2023-03-02: Tested the site again after testing it on Lighthouse, no errors were found. 
 
-![W3C Validator HTML no errors](assets/img_readme/w3c_html.png)
+![W3C Validator HTML no errors](assets/img_readme/w3c html.png)
 ![W3C Validator CSS no errors](assets/img_readme/w3c_css.png)
 
 One warning: 
@@ -154,7 +154,7 @@ All pages was tested with Wave they all had the same error and alerts.
 
 ## W3C HTML Validator & W3C CSS Validator
 W3C HTML Validator: No errors found on any of the pages
-![W3C Validator HTML no errors](assets/img_readme/w3c_html.png)
+![W3C Validator HTML no errors](assets/img_readme/w3c html.png)
 
 W3C CSS Validator: No errors found on any of the pages
 ![W3C Validator CSS no errors](assets/img_readme/w3c_css.png)
