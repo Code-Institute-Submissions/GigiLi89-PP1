@@ -160,3 +160,5 @@ W3C CSS Validator: No errors found on any of the pages
 ![W3C Validator CSS no errors](assets/img_readme/w3c_css.png)
 
 ## Lighthouse
+
+Back to [README.md](README.md)

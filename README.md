@@ -157,3 +157,5 @@ I would like to thank these people fpr helping me and guiding me through this pr
 - Sheryl, my mentor for your encouragement and guidance.
 - The tutor team at Code Institute for helping me when I'm struggeling. 
 - My partner and friends for all the support.
+
+Find my [TESTING.md](TESTING.md)
