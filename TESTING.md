@@ -1,7 +1,7 @@
 # Testing
 Test have been an ongoing procedure under the entire build of the site. I used Google Chrome and the DevTool to locate and troubleshoot any issues. DevTool helped me locate the issue in my HTML or CSS either in code or the box-model. The closer I got to a finished product the more I tested the site. 
 
-I've tested the site multiple times using DevTools and different devices to make sure the website is responsiv. When using the DevTools Dimensions I mainly chose between: 
+I've tested the site multiple times using DevTools and different devices to make sure the website is responsive. When using the DevTools Dimensions I mainly changed between: 
 - Responsive
 - Desktop
 - Iphone 12 Pro
@@ -29,11 +29,11 @@ The test was performed on the following devices and browsers:
 - Samsung Galaxy S24: Samsung Internet Browser
 
 The functions vary depending on what device the test was performed on. 
-For e.g. Click Facebook button can either redirect to new tab or open in app. 
+For e.g. Click Facebook button can either redirect to new tab or open in app but they were all functional and did what was expected. 
 
 I have clicked and tested all functions on the site on different devices as well as on different browsers and apps to make sure the site is functional and responsive.
 
-To make sure that the site workd properly I've also asked 7 of my friends and family to check on their devices and browsers/apps. No bugs were found. 
+To make sure that the site worked properly I've also asked 7 of my friends and family to check on their devices and browsers/apps. No bugs were found. 
 
 
 | FEATURES                      | EXPECTED OUTCOME                               | TESTING PERFOMED        | RESULT                                         | PASS/FAIL |
@@ -97,7 +97,7 @@ To make sure that the site workd properly I've also asked 7 of my friends and fa
 
 The 1 error for the empty label is due to the navbar, I'll therefor just leave it as it is. 
 The 3 alerts is for me missing first level heading, I chose not to have that and will therefor not address the alert. The second alert is because I've links back to the page and the third alert is because the Copyright text in the footer is small, which I want to keep small. 
-All pages was tested with Wave they all had the same error and alerts. 
+All pages were tested with Wave they all had the same error and alerts. 
 
 ## W3C HTML Validator & W3C CSS Validator
 W3C HTML Validator: No errors found on any of the pages
@@ -111,34 +111,44 @@ W3C CSS Validator: No errors found on any of the pages
 I used the Lighthouse DevTool in Chrome to test the performance, accessibility, best practices and SEO of the site. Lighthouse gave an overall good score to the site and recommended me to change the images from png to webp, which I did. Link to the tool I used to convert is marked in the resourses.
 
 **Desktop Reults:**
+
 Index page: 
+
 ![Lighthouse Index Desktop](assets/img_readme/lhdesk_index.png)
 
 Gallery page:
+
 ![Lighthouse Gallery Desktop](assets/img_readme/lhdesk_gallery.png)
 
 Contact page:
+
 ![Lighthouse Contact Desktop](assets/img_readme/lhdesk_contact.png)
 
 Thanks page:
+
 ![Lighthouse Thanks Desktop](assets/img_readme/lhdesk_thanks.png)
 
 **Mobile Results**
+
 Index page: 
+
 ![Lighthouse Index Mobile](assets/img_readme/lhmobile_index2.png)
 
 Gallery page:
+
 ![Lighthouse Gallery Mobile](assets/img_readme/lhmobile_gallery.png)
 
 Contact page:
+
 ![Lighthouse Contact Mobile](assets/img_readme/lhmobile_contact.png)
 
 Thanks page:
+
 ![Lighthouse Thanks Mobile](assets/img_readme/lhmobile_thanks.png)
 
 Errors coming up on the mobile version of the pages: 
 
-- Largest contentful required orgins: After adjusting the images from png to webp and changing some of the images to a smaller size I got up the rate to 89. Since it is my hero there is not much more I can do and the size is already properly sized. After consulting with my mentor and a tutor I've decided to leave it as it is. 
+- Largest contentful required orgins: After adjusting the images from png to webp and changing some of the images to a smaller size I got up the rate. Since it is my hero there is not much more I can do and the size is already properly sized. After consulting with my mentor and a tutor I've decided to leave it as it is. 
 - Properly size images: *Same as above.*
 - Preconnect to required origins: I've chosen not to do what Lightroom suggested since it is reacting on the FontAwesome link which I've chosen to put furthest down on the page to load the last. Fonts was also showing up as an error but that is also not an essential main part so I don't want those things to take up the loading time. 
 
