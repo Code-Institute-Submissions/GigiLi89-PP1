@@ -1,28 +1,50 @@
 ![Logo](assets/images/gylogo.webp.webp)
 
+![Am I Responsive](assets/img_readme/amiresponsive.png)
+
 # Gigis Yarn
 Gigis Yarn is designed to be a digital gallery for handmade crochet artwork. On the site users will find handmade baby toys and accessories. The site is for inspirational purposes and user can even buy items or patterns. 
 
-![Am I Responsive](assets/img_readme/amiresponsive.png)
+It features a home, gallery and a contact page with a simple navigation menu at the top of the page and social media links at the bottom. The home page describes Gigis yarn, how it started and what I offer. The Gallery shows images of what is being offered and the contact page has a form to submit the requests. Home page has a button to Gallery, Gallery has a button to Contact and Contact has a submit button to a thank you page which contains a button back to the home page. 
 
-----------------------------------------------------
+## Website Goals
+### Business Goals
+- A clear structure and easy to navigate for people in different ages no matter what device or browser/app is used.
+- An easy and simple contact form.
+- Promote, show and inspire products through a variety of different products.
+
+### Customer Goals
+- Find inspiration and be interested in the products.
+- Simple way to contact me for requests.
+- Purschase either a finished product or a pattern.  
+
+## User Experience
+### Potential Customers
+- From children to older people interested in crochet, no matter how much crochet experience they have.
+- Wants to purchase a finished product after their own choice. A handmade and customizec product.
+- Wants to purchase a pattern to make their own products.
+
 ## User Stories
 ### First time visitors:
-An inspirational page for someone interested in crochet.
-Puschase finished products or the pattern. 
-Contact me for any requests or questions.
+- Wants to find inspiration on the site.
+- Wants to know more about my products.
+- Wants to see what I can offer.
+- Want to get in contact with me for e.g. a request.
 
 ### Returning visitors:
-Find inspiration from updated information/images
-Purchase finished products and patterns
+- Wants to see more inspiration, possibly new imgaes of new products.
+- Wants to purchase a product or pattern.
+- Wants to find out more about Gigis Yarn, either through the site or find my socal medias.
+- Wants to get in contact with me for e.g. to purchase.
 
 ### Others: 
 Potentional customer wanting to know prices and what else is offered
 
-
-## Site Administrator
-The site should be organised, easy to navigate and to easy to update information and new images to the gallery.
-----------------------------------------------------
+### Site Administrator
+As a site administrator, the page should: 
+- Be easy to manage and navigate.
+- Be easy to update, for e.g. images.
+- Be easy to add new features or change the current features.
 
 ## Wireframe
 The outcome from the Wireframes I made at the beginning has changed a bit from how the end product looked like. Nothing major, changed text-content placement etc. 
