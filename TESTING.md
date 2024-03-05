@@ -132,7 +132,7 @@ Thanks page:
 
 Index page: 
 
-![Lighthouse Index Mobile](assets/img_readme/lhmobile_index2.png)
+![Lighthouse Index Mobile](assets/img_readme/lhmobile_index3.png)
 
 Gallery page:
 
@@ -140,7 +140,7 @@ Gallery page:
 
 Contact page:
 
-![Lighthouse Contact Mobile](assets/img_readme/lhmobile_contact.png)
+![Lighthouse Contact Mobile](assets/img_readme/lhmobile_contact2.png)
 
 Thanks page:
 
