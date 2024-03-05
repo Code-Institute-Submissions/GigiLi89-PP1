@@ -1,5 +1,7 @@
 ![Logo](assets/images/gylogo.webp.webp)
 
+Have a look at the deployed site: [Gigis Yarn](https://gigili89.github.io/PP1/)
+
 ![Am I Responsive](assets/img_readme/amiresponsive.png)
 
 # Gigis Yarn
@@ -40,7 +42,7 @@ It features a home, gallery and a contact page with a simple navigation menu at 
 ### Others: 
 Potentional customer wanting to know prices and what else is offered
 
-### Site Administrator
+## Site Administrator
 As a site administrator, the page should: 
 - Be easy to manage and navigate.
 - Be easy to update, for e.g. images.
@@ -126,6 +128,8 @@ Bold was used mainly on the button texts with a weight of 900.
 - W3C Validator CSS: https://jigsaw.w3.org/css-validator/
 - README exampel from my mentor: https://github.com/rhysbobbett/heartenhorticulture
 - Color picker (For the background): https://htmlcolorcodes.com/
+- Markdown Cheat sheet: https://www.markdownguide.org/cheat-sheet/
+
 
 ## Media
 - The logo was made by me in Canva. The hero-image was also made by me in Canva with photo included in for Canva Pro. 
