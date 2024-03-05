@@ -129,6 +129,7 @@ Bold was used mainly on the button texts with a weight of 900.
 - README exampel from my mentor: https://github.com/rhysbobbett/heartenhorticulture
 - Color picker (For the background): https://htmlcolorcodes.com/
 - Markdown Cheat sheet: https://www.markdownguide.org/cheat-sheet/
+- https://tinypng.com/
 
 
 ## Media
