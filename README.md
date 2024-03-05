@@ -76,18 +76,22 @@ The site features a clear and simpel design that includes a navbar at the top ne
 
 ### Homepage
 Home page contains information about Gigis Yarn, how it started, what is offered and a button going to the gallery page. 
+
 ![Printscreen desktop index](assets/img_readme/print_index1.png)
 
 ### Gallery 
 The gallery page features images of what is offered. There's also a button at the bottom of the page to the contact page.
+
 ![Printscreen desktop gallery](assets/img_readme/print_gallery.png)
 
 ### Contact
 The page contains of a form where you fill in your name, email and the request your having. It also contains a submit button, when clicked you'll be redirected to the thanks page.
+
 ![Printscreen desktop contact](assets/img_readme/print_contact.png)
 
 ### Thanks
 When submitting the form you will be redirected to the thanks site which has a Thank you note and a button to get back to the Home page. 
+
 ![Printscreen desktop thanks](assets/img_readme/print_thanks.png)
 
 ## Design
