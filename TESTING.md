@@ -152,6 +152,7 @@ Errors coming up on the mobile version of the pages:
 - Properly size images: *Same as above.*
 - Preconnect to required origins: I've chosen not to do what Lightroom suggested since it is reacting on the FontAwesome link which I've chosen to put furthest down on the page to load the last. Fonts was also showing up as an error but that is also not an essential main part so I don't want those things to take up the loading time. 
 
+*Extra notes: I have also noted that the scores vary even when I haven't changed the code. With the same dimensions and the same browser I can get different result eaach time I test it. The difference is quite small but like the index page in the mobile version lands on between 86-90 on Performance. This was tested during the day.*
 
 
 # Previous testings
