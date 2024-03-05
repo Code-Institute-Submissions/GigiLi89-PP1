@@ -74,7 +74,7 @@ The site features a clear and simpel design that includes a navbar at the top ne
 - Gallery: Shows photos of my previous works. 
 - Contact: A form for contact, when submitted there will be a thank you page and a button to go back to homepage. 
 
-### Homepage
+### Home page
 Home page contains information about Gigis Yarn, how it started, what is offered and a button going to the gallery page. 
 
 ![Printscreen desktop index](assets/img_readme/print_index1.png)
@@ -141,7 +141,7 @@ Bold was used mainly on the button texts with a weight of 900.
 - All other photos were photographed and edited by me and was taken from my Instagram account @gigisyarn. 
 
 ## Local site vs. Deployed site
-No Differences between the local and the deployed site has been found on any devices or browsers/apps during my testings. 
+No differences between the local and the deployed site has been found on any devices or browsers/apps during my testings. 
 
 ## Sources & Credits
 I found some of my resources and inspirations through the following sites:
@@ -152,6 +152,7 @@ I found some of my resources and inspirations through the following sites:
 - Form on Contact me page: https://www.w3schools.com/css/tryit.asp?filename=trycss_forms
 - Jon Duckett: HTML&CSS Design and build websites (book)
 - Tommy Olsson: Max räckvidd med HTML & CSS (Swedish book)
+
 Examples that helped me with README and TESTING:
 - https://github.com/kera-cudmore/earth-day-hackathon-2022/blob/main/TESTING.md#WAVE
 - https://github.com/rhysbobbett/heartenhorticulture/blob/main/README.md
