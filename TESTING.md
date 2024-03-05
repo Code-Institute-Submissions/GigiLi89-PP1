@@ -3,7 +3,7 @@
 Test have been an ongoing procedure under the entire build of the site. I used Google Chrome and the DevTool to locate and troubleshoot any issues. DevTool helped me locate the issue in my HTML or CSS either in code or the box-model. The closer I got to a finished product the more I tested the site. 
 
 I've tested the site multiple times using DevTools and different devices to make sure the website is responsiv. When using the DevTools Dimensions I mainly chose between: 
-- Responsiv
+- Responsive
 - Desktop
 - Iphone 12 Pro
 - Samsung Galaxy S8
@@ -16,7 +16,7 @@ Following tools were also used for testing:
 - W3C CSS Validator
 - WAVE Web Accessibility tool
 
-The most recents tests can be found below:
+The most recent tests can be found below:
 
 ## W3C Validator
 Tested 2023-03-01, result: 
@@ -71,7 +71,7 @@ The desktop came back with a better result. The Performance is still not where I
 One warning: 
 ![W3C Validator Warning](assets/img_readme/w3c_warning.png)
 
-# Testing results 2023-03-04:
+# Full anf final testing results 2023-03-04:
 
 ## Full testing 
 
@@ -153,5 +153,10 @@ The 3 alerts is for me missing first level heading, I chose not to have that and
 All pages was tested with Wave they all had the same error and alerts. 
 
 ## W3C HTML Validator & W3C CSS Validator
+W3C HTML Validator: No errors found on any of the pages
 ![W3C Validator HTML no errors](assets/img_readme/w3c_html.png)
+
+W3C CSS Validator: No errors found on any of the pages
 ![W3C Validator CSS no errors](assets/img_readme/w3c_css.png)
+
+## Lighthouse
