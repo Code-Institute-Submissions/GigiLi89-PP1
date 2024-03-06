@@ -95,7 +95,7 @@ To make sure that the site worked properly I've also asked 7 of my friends and f
 ![Wave testing built](assets/img_readme/wave_built.png)
 ![Wave testing contrast](assets/img_readme/wave_contrast.png)
 
-The 1 error for the empty label is due to the navbar, I'll therefor just leave it as it is. 
+The 1 error for the empty label is due to the navbar toggle, I'll therefor just leave it as it is. 
 The 3 alerts is for me missing first level heading, I chose not to have that and will therefor not address the alert. The second alert is because I've links back to the page and the third alert is because the Copyright text in the footer is small, which I want to keep small. 
 All pages were tested with Wave they all had the same error and alerts. 
 
